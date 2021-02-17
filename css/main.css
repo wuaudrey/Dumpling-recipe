@@ -20,7 +20,7 @@ h2 {
 
 h3 {
   font-family: sans-serif; 
-  color: pink;
+  color: rbg(177, 31, 19);
 }
 
 p {
@@ -34,8 +34,8 @@ div {
   font-family: sans-serif;
   line height: 1.5;
   font-size: small;
-  color: blue;
-  padding: 1em;
+  color: black;
+  padding: .5em;
   border: 0.1px solid #000;
   margin: 2 em 0 3 em 0;
 }
