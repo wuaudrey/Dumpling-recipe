@@ -12,11 +12,11 @@ h1 {
 
 h2 {
   font-family: "Trebuchet MS"; sans-serif;
-  color: blue;
+  color: rbg(175, 37, 19);
 }
 
 h3 {
-  font-family: "Trebuchet MS"; sans-serif; 
+  font-family: sans-serif; 
   color: black;
 }
 
