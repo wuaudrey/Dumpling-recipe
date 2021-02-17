@@ -1,8 +1,7 @@
 body {
   font-family: sans-serif;
   background-color:rbg(253, 231, 193);
-  margin-left: 40 px;
-  margin-right: 40 px;
+  width: 48em;
 }
 
 .center {
