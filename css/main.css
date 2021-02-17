@@ -9,19 +9,27 @@ h1 {
 }
 
 h2 {
-  font-family: Trebuchet MS"; sans-serif;
+  font-family: "Trebuchet MS"; sans-serif;
+  color: blue;
+}
+
+h3 {
+  font-family: "cursive"; 
+  color: red;
 }
 
 p{
   font-family: sans-serif;
   line-height: 1.5;
   font-size: large;
+  color: yellow;
 }
 
 div {
   font-family: sans-serif;
   line height: 1.5;
   font-size: small;
+  color: pink;
   padding: 1em;
   border: 0.1px solid #000;
   margin: 2 em 0 3 em 0;
@@ -30,6 +38,7 @@ div {
 label {
   font-family: cursive;
   font-size: small;
+  color: orange;
 }
   
   
