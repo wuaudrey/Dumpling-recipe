@@ -54,7 +54,7 @@ ul {
 }
 
 ol {
-  font-family: monospace;
+  font-family: "arial"; sans-serif;
   line height: 2;
   font size: x-small;
   color: black;
