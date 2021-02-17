@@ -1,37 +1,37 @@
 body {
   font-family: sans-serif;
-  background-color:rbg(255, 239, 217);
+  background-color:red;
   margin-left: 30 px;
   margin-right: 30 px;
 }
 
 h1 {
   font-family: "Trebuchet MS"; sans-serif;
-  color:rbg(219, 96, 69);
+  color: black;
 }
 
 h2 {
   font-family: "Trebuchet MS"; sans-serif;
-  color: rbg(175, 37, 19);
+  color: blue;
 }
 
 h3 {
   font-family: sans-serif; 
-  color: black;
+  color: pink;
 }
 
 p {
   font-family: sans-serif;
   line-height: 1.5;
   font-size: large;
-  color:rbg(155, 13,13);
+  color: pink;
 }
 
 div {
   font-family: sans-serif;
   line height: 1.5;
   font-size: small;
-  color: black;
+  color: blue;
   padding: 1em;
   border: 0.1px solid #000;
   margin: 2 em 0 3 em 0;
