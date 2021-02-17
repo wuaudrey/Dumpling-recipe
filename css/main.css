@@ -24,6 +24,7 @@ h1 {
   font-size: 50 px;
   font-weight: bold;
   text-align: center;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -31,6 +32,7 @@ h2 {
   color:  rgb(239, 192, 29);
   font-weight: bold;
   text-align: center;
+  text-transform: uppercase;
 }
 
 h3 {
