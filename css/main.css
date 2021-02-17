@@ -58,8 +58,8 @@ ul {
 
 ol {
   font-family: "arial"; sans-serif;
-  line-height: 2;
-  font-size: medium;
+  line-height: 1.5;
+  font-size: small;
   color: black;
   font-weight: lighter;
 }
