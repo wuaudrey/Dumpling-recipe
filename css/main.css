@@ -23,11 +23,16 @@ h3 {
   color: rbg(177, 31, 19);
 }
 
-p {
+p. intro {
   font-family: sans-serif;
   line-height: 1.5;
   font-size: large;
   color: rgb(202, 172, 18);
+}
+
+p {
+  font-family: cursive;
+  color: red;
 }
 
 div {
