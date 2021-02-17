@@ -27,7 +27,7 @@ p{
   color:rbg(155, 13,13);
 }
 
-div {
+div class="group" {
   font-family: sans-serif;
   line height: 1.5;
   font-size: small;
