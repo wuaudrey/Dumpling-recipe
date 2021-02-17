@@ -5,6 +5,13 @@ body {
   margin-right: 30 px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 h1 {
   font-family: "Tahoma"; sans-serif;
   color: rgb(202, 172, 18);
