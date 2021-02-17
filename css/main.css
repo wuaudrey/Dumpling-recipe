@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
-  background-color:rbg(253, 231, 193);
-  width: 48em;
+  background-color: #FDEFD8;
+  max-width: 48em;
 }
 
 .center {
