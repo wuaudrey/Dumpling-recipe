@@ -18,11 +18,14 @@ p{
   font-size: large;
 }
 
-}
-
 div {
   font-family: sans-serif;
   line height: 1.5;
+  font-size: small;
+}
+
+label {
+  font-family: cursive;
   font-size: small;
 }
   
