@@ -36,5 +36,18 @@ div {
   border: 0.1px solid #000;
   margin: 2 em 0 3 em 0;
 }
+
+ul {
+  font-family: sans-serif;
+  padding: 1em;
+  border: 0.1px solid #000;
+  margin: 2 em 0 3 em 0;
+}
+
+ol {
+  font-family: sans-serif;
+  line height: 1.5;
+  font size: small;
+}
   
   
