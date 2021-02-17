@@ -39,6 +39,7 @@ div {
 
 ul {
   font-family: sans-serif;
+  font-size: small;
   padding: 1em;
   border: 0.1px solid #000;
   left-margin: 2 em 0 3 em 0;
