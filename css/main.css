@@ -38,9 +38,10 @@ p {
 }
 
 div {
-  font-family: sans-serif;
+  font-family: "arial"; sans-serif;
   line-height: 1.5;
   font-size: small;
+  font-weight: lighter;
   color: black;
   padding: .5em;
   border: 0.1px solid #000;
@@ -57,8 +58,8 @@ ul {
 
 ol {
   font-family: "arial"; sans-serif;
-  line-height: 1.5;
-  font-size: small;
+  line-height: 2;
+  font-size: medium;
   color: black;
   font-weight: lighter;
 }
