@@ -1,11 +1,11 @@
 body {
   font-family: sans-serif;
-  background-color: rbg(255, 239, 217);
+  background-color:rbg(255, 239, 217);
 }
 
 h1 {
   font-family: "Trebuchet MS"; sans-serif;
-  color: rbg(219, 96, 69);
+  color:rbg(219, 96, 69);
 }
 
 h2 {
