@@ -89,6 +89,10 @@ html {
   scroll-behavior: smooth;
 }
 
+summary {
+  color:black;
+  font-size: medium;
+}
 
 
 
