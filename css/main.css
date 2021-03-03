@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  font-family: "Tahoma"; sans-serif;
+  font-family: "Tahoma";
   color: rgb(239, 192, 29);
   font-size: 50px;
   font-weight: bold;
@@ -90,7 +90,7 @@ html {
 summary {
   color:black;
   font-size: medium;
-  text align: left;
+  text-align: left;
 }
 
 #key-takeaways {
