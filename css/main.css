@@ -111,8 +111,8 @@ summary {
   top: 0;
   left: 0;
   content: ""; 
-  width: 50%;
-  padding-top: 2em;
+  width: 90%;
+  padding-top: 4em;
   border-top: 0.1em solid #f00;
   border-left: 0.1em solid #f00;
 }
@@ -124,8 +124,8 @@ summary {
   bottom: 0;
   right: 0;
   content: ""; 
-  width: 50%;
-  padding-top: 2em;
+  width: 90%;
+  padding-top: 4em;
   border-bottom: 0.1em solid #f00;
   border-right: 0.1em solid #f00;
 }
