@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: rgb(255, 252, 237);
+  background-color: rgb(238, 232, 214);
   max-width: 90em;
   padding: 0 5%;
   margin: 0 auto;
@@ -96,7 +96,7 @@ summary {
 #key-takeaways {
   position: relative;
   max-width: 20em;
-  background-color: rgb(255, 252, 237);
+  background-color: rgb(238, 232, 214);
   margin: 2em;
 }
 
