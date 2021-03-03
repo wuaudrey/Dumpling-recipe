@@ -94,5 +94,56 @@ summary {
   font-size: medium;
 }
 
+#key-takeaways {
+  position: relative;
+  max-width: 16em;
+  background-color: #fff;
+  margin: 1em;
+}
+
+#key-takeaways li::marker {
+  content: "🖤 ";
+}
+
+#key-takeaways li::marker {
+  color: #00f;
+  font-size: 1.2em;
+}
+
+#key-takeaways::before {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: ""; 
+  width: 50%;
+  padding-top: 2em;
+  border-top: 0.1em solid #f00;
+  border-left: 0.1em solid #f00;
+}
+
+#key-takeaways::after {
+  
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  content: ""; 
+  width: 50%;
+  padding-top: 2em;
+  border-bottom: 0.1em solid #f00;
+  border-right: 0.1em solid #f00;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
