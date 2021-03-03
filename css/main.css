@@ -99,7 +99,7 @@ summary {
   position: relative;
   max-width: 16em;
   background-color: rgb(255, 252, 237);
-  margin: 2em;
+  margin: 1em;
 }
 
 #key-takeaways li::marker {
@@ -114,7 +114,7 @@ summary {
   left: 0;
   content: ""; 
   width: 90%;
-  padding-top: 4em;
+  padding-top: 2em;
   border-top: 0.1em solid #f00;
   border-left: 0.1em solid #f00;
 }
@@ -127,7 +127,7 @@ summary {
   right: 0;
   content: ""; 
   width: 90%;
-  padding-top: 4em;
+  padding-top: 2em;
   border-bottom: 0.1em solid #f00;
   border-right: 0.1em solid #f00;
 }
