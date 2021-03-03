@@ -82,6 +82,7 @@ a {
   font-size: medium;
   color: rgb(239, 192, 29);
   font-weight: lighter;
+  text-align: left;
 }
 
 html {
