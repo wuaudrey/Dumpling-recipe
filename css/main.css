@@ -94,10 +94,10 @@ summary {
 }
 
 #key-takeaways {
-  position: relative;
+  position: center;
   max-width: 16em;
   background-color: rgb(255, 252, 237);
-  margin: 1em;
+  margin: 2em;
 }
 
 #key-takeaways li::marker {
