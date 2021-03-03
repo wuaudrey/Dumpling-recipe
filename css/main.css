@@ -94,7 +94,7 @@ summary {
 }
 
 #key-takeaways {
-  position: center;
+  position: relative;
   max-width: 16em;
   background-color: rgb(255, 252, 237);
   margin: 2em;
