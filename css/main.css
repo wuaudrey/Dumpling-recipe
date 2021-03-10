@@ -106,6 +106,7 @@ summary {
 #key-takeaways li::marker {
   color: #00f;
   font-size: 1.2em;
+  content: "🥟 ";
 }
 
 #key-takeaways::before {
