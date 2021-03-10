@@ -138,7 +138,7 @@ summary {
   width: 50%;
 }
 
-hr.rounded {
+hr.solid {
   border-top: 8px solid #bbb;
   border-radius: 5px;
 }
