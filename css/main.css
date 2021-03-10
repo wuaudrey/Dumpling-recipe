@@ -4,6 +4,9 @@ body {
   max-width: 90em;
   padding: 0 5%;
   margin: 0 auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 30px;
   
 }
 
