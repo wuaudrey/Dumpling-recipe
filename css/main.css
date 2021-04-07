@@ -20,7 +20,7 @@ body {
 
 h1 {
   font-family: "Tahoma";
-  color: rgb(239, 192, 29);
+  color: rgb(184, 135, 0);
   font-size: 50px;
   font-weight: bold;
   text-align: center;
@@ -28,7 +28,7 @@ h1 {
 
 h2 {
   font-family: "Trebuchet MS"; 
-  color:  rgb(239, 192, 29);
+  color:  rgb(184, 135, 0);
   font-weight: bold;
   text-align: left;
   text-transform: uppercase;
@@ -79,7 +79,7 @@ ol {
 a {
   font-family: sans-serif;
   font-size: medium;
-  color: rgb(239, 192, 29);
+  color: rgb(184, 135, 0);
   font-weight: lighter;
 }
 
